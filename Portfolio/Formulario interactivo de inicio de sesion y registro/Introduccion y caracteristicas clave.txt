@@ -1,0 +1,21 @@
+Introducción:
+El proyecto Formulario de inicio de sesión y registro tiene como objetivo crear un sistema de autenticación de usuarios en el que los 
+usuarios puedan iniciar sesión con sus credenciales o registrarse para obtener una nueva cuenta. 
+El proyecto utiliza HTML para estructurar el formulario, CSS para diseñar y diseñar, y JavaScript 
+para validar y enviar el formulario.
+
+Características clave:
+1. Registro de usuario: los usuarios pueden crear una nueva cuenta proporcionando su nombre de usuario, 
+dirección de correo electrónico y contraseña deseados.
+2. Validación de formulario: el formulario valida las entradas del usuario para garantizar que los 
+campos obligatorios se llenen correctamente.
+3. Medidor de seguridad de la contraseña: el campo de la contraseña incluye un medidor de seguridad para 
+indicar la seguridad de la contraseña elegida por el usuario.
+4. Confirmación de contraseña: el formulario de registro incluye un campo de confirmación de contraseña 
+para garantizar que los usuarios ingresen la misma contraseña dos veces.
+5. Manejo de errores: el formulario proporciona mensajes de error para guiar a los usuarios en caso de 
+entradas no válidas o campos faltantes.
+6. Inicio de sesión de usuario: los usuarios existentes pueden iniciar sesión con su nombre de usuario y 
+contraseña registrados.
+7. Persistencia: el proyecto se puede ampliar para incluir la funcionalidad de back-end para almacenar y 
+autenticar las credenciales de los usuarios.

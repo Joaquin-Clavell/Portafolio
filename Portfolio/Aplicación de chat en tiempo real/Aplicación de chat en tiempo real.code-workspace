@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"name": "Aplicación de chat en tiempo real",
+			"path": "."
+		},
+		{
+			"name": "Portafolio",
+			"path": "../../Portafolio"
+		},
+		{
+			"path": "../Calculadora"
+		},
+		{
+			"path": "../Formulario interactivo de inicio de sesion y registro"
+		},
+		{
+			"path": "../Sitio web de portafolio"
+		}
+	],
+	"settings": {}
+}

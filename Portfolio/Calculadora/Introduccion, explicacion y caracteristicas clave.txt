@@ -1,0 +1,43 @@
+Introducción:
+El proyecto tiene como objetivo desarrollar una calculadora interactiva utilizando tecnologías web 
+como HTML, CSS y JavaScript. La calculadora proporcionará una interfaz fácil de usar para realizar 
+operaciones matemáticas básicas. Permitirá a los usuarios ingresar números, realizar cálculos y 
+mostrar los resultados dinámicamente.
+
+Explicación:
+El proyecto tiene como objetivo desarrollar una calculadora interactiva utilizando tecnologías web 
+como HTML, CSS y JavaScript. La calculadora proporciona una interfaz fácil de usar para realizar 
+operaciones matemáticas básicas. Los usuarios pueden ingresar números, realizar cálculos y ver los 
+resultados dinámicamente.
+
+La calculadora presenta un diseño limpio e intuitivo, lo que la hace fácil de usar para usuarios de 
+todos los niveles. Admite operaciones matemáticas esenciales como suma, resta, multiplicación y 
+división. A medida que los usuarios ingresan números o realizan operaciones, la calculadora actualiza 
+el resultado en tiempo real, brindando información instantánea.
+
+El proyecto también incluye el manejo de errores para garantizar cálculos precisos. Maneja errores 
+comunes como dividir por cero o ingresar caracteres no válidos, proporcionando mensajes de error o 
+notificaciones apropiados.
+
+Con su diseño atractivo y visualmente atractivo, la calculadora ofrece una experiencia de usuario 
+agradable. Combina funcionalidad con estilo, por lo que es una herramienta ideal para cualquier 
+persona que necesite cálculos rápidos y precisos en la web.
+
+En general, este proyecto proporciona una solución atractiva y eficiente para realizar operaciones 
+matemáticas básicas de una manera visualmente atractiva y fácil de usar.
+
+Características clave:
+1. Interfaz fácil de usar: la calculadora tendrá una interfaz de usuario limpia e intuitiva, lo que facilitará a 
+los usuarios realizar cálculos.
+
+2. Operaciones básicas: Admitirá operaciones matemáticas esenciales como la suma, la resta, 
+la multiplicación y la división.
+
+3. Cálculo dinámico: la calculadora actualizará el resultado en tiempo real a medida que el usuario 
+ingresa números o realiza operaciones.
+
+4. Funcionalidad clara: Incluirá un botón claro para eliminar los números ingresados ​​o reiniciar la 
+calculadora.
+
+5. Manejo de errores: la calculadora manejará errores comunes, como dividir por cero o ingresar 
+caracteres no válidos.

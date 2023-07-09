@@ -1,0 +1,30 @@
+Introducción:
+La aplicación de chat en tiempo real es una plataforma basada en la web que permite a los usuarios 
+comunicarse entre sí en tiempo real mediante mensajes de texto. Proporciona una experiencia de chat 
+fluida e interactiva, fomentando la comunicación instantánea y la colaboración entre los usuarios. 
+La aplicación utiliza HTML, CSS y JavaScript para crear una interfaz atractiva y fácil de usar.
+
+Caracteristicas clave:
+1. Registro y autenticación de usuarios: los usuarios pueden crear una cuenta e iniciar sesión de forma 
+segura en la aplicación de chat para acceder a las funciones de chat.
+
+2. Mensajería en tiempo real: la aplicación permite a los usuarios enviar y recibir mensajes al instante,
+proporcionando una experiencia de chat fluida y receptiva.
+
+3. Comunicación de usuario a usuario: los usuarios pueden buscar a otros usuarios registrados e iniciar 
+conversaciones privadas con ellos.
+
+4. Chat grupal: los usuarios tienen la capacidad de crear o unirse a salas de chat donde varios 
+participantes pueden comunicarse simultáneamente.
+
+5. Emojis y uso compartido de archivos: la aplicación admite el uso de emojis en los mensajes 
+y permite a los usuarios compartir archivos como imágenes o documentos.
+
+6. Notificaciones de mensajes: los usuarios reciben notificaciones de mensajes nuevos, 
+lo que garantiza que se mantengan actualizados con las conversaciones en curso.
+
+7. Estado de presencia del usuario: la aplicación muestra el estado en línea/fuera de línea de los 
+usuarios, lo que indica su disponibilidad para chatear.
+
+8. Historial de mensajes: la aplicación de chat mantiene un historial de mensajes, lo que permite a los 
+usuarios retroceder y ver conversaciones anteriores.

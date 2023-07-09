@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    <nav>
+        <div class="logo">Your Logo</div>
+        <ul class="nav-links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <p>A showcase of my skills, projects, and achievements</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <div class="about-content">
+            <p>Sobre mi 🤔:
+                Soy Desarrollador Full Stack Junior en constante crecimiento con la capacidad de aprender 
+                nuevas tecnologías y adaptarme con facilidad a nuevos equipos de trabajo logrando 
+                proyectos web escalables y modularizables. Me apasiona el diseño y la resolución de 
+                problemas!
+                </p>
+
+                Skills 👨‍💻:
+                | JavaScript | TypeScript | NodeJS | SQL | Python | Java | CSS | HTML | Git |
+                | Redes de computadoras | Comunicaciones inalámbricas | Seguridad de la información | 
+                | Virtualización y computación en la nube | Sistemas operativos | 
+                | Gestión de proyectos en tecnología de la información | 
+                </div>
+            </p>
+                Soft Skills 🤝:
+                Me gusta escuchar, interpretar y aprender. Considero que el trabajo en equipo es 
+                enriquecedor y disfruto conocer y relacionarme con personas de diferentes lugares y 
+                culturas. Siempre de buen humor 💪</p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <div class="imagenes-container">
+          <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png?f=webp" alt="HTML" class="imagen">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS" class="imagen">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript" class="imagen">
+          <img src="https://img.freepik.com/iconos-gratis/serpientes_318-368381.jpg" alt="Python" class="imagen">
+          <img src="https://www.mvstudio.be/wp-content/uploads/2022/08/0_PrVXsTlI3uZE89jO-2000x0-c-default.png" alt="React" class="imagen">
+          <img src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.jpg" alt="Java" class="imagen">
+          <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL" class="imagen">
+          <img src="https://us.123rf.com/450wm/nexusby/nexusby1712/nexusby171200097/91690061-icono-de-ciberseguridad-s%C3%ADmbolo-de-protecci%C3%B3n-online.jpg" alt="Ciberseguridad" class="imagen">
+        </div>
+      </section>
+      
+      <style>
+        .imagenes-container {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          align-items: center;
+        }
+      
+        .imagen {
+          width: 100px;
+          height: auto;
+          margin: 20px;
+        }
+      </style>
+      
+      
+      
+        </body>
+        </ul>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <div class="project">
+        <div class="project-item">
+          <a href="http://127.0.0.1:5500/Calculadora/index.html">
+            <img src="/Captura de pantalla 2023-07-05 094942.jpg" alt="Calculadora interactiva">
+            <h3>Calculadora</h3>
+          </a>
+        </div>
+        <div class="project-item">
+          <a href="http://127.0.0.1:5500/Aplicación de chat en tiempo real/Index.html">
+            <img src="/Captura de pantalla 2023-07-05 100536.jpg" alt="Chat">
+            <h3>Aplicacion de chat</h3>
+          </a>
+        </div>
+        <div class="project-item">
+          <a href="http://127.0.0.1:5500/Formulario interactivo de inicio de sesion y registro/index.html">
+            <img src="/Captura de pantalla 2023-07-05 100915.jpg" alt="Formulario">
+            <h3>Formulario de registro e inicio de sesion</h3>
+          </a>
+        </div>
+      </div>
+    </section>
+    
+    <style>
+      .project {
+        display: flex;
+        justify-content: center;
+      }
+    
+      .project-item {
+        text-align: center;
+        margin: 20px;
+      }
+    
+      .project-item img {
+        width: 200px;
+        height: auto;
+      }
+    </style>
+    <div class="project-item">
+      <h3>Repositorio de GitHub</h3>
+      <a href="https://github.com/Joaquin-Clavell">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" alt="Descripción de la imagen">
+      </a>
+      <a href="https://github.com/Joaquin-Clavell"></a>
+    </div>
+    
+      
+
+    <section id="contact">
+      <h2>Contact Me</h2>
+      <form id="contact-form" action="contact.php" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" required></textarea>
+        <button type="submit">Send Message</button>
+      </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
+
+    <script src="Portafolio.js"></script>
+</body>
+</html>
